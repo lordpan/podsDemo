@@ -1,0 +1,22 @@
+{
+  "name": "podsDemo",
+  "version": "0.1.0",
+  "summary": "A short description of podsDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/13013325/podsDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "13013325": "275689823@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/13013325/podsDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "podsDemo/Classes/**/*"
+}
